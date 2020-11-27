@@ -69,7 +69,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/regulation/code')}>
-              前端开发规范
+              Todo
             </Link>
           </div>
         </div>
